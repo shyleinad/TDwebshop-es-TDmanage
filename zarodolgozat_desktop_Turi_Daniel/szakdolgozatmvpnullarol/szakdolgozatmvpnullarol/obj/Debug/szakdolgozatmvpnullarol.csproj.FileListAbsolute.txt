@@ -1,0 +1,13 @@
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\obj\Debug\szakdolgozatmvpnullarol.Properties.Resources.resources
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\obj\Debug\szakdolgozatmvpnullarol.csproj.GenerateResource.cache
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\bin\Debug\szakdolgozatmvpnullarol.exe.config
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\bin\Debug\szakdolgozatmvpnullarol.exe
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\bin\Debug\szakdolgozatmvpnullarol.pdb
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\bin\Debug\Google.Protobuf.dll
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\bin\Debug\Renci.SshNet.dll
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\obj\Debug\szakdolgozatmvpnullarol.csproj.CopyComplete
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\obj\Debug\szakdolgozatmvpnullarol.exe
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\obj\Debug\szakdolgozatmvpnullarol.pdb
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\obj\Debug\szakdolgozatmvpnullarol.View.Container.resources
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\obj\Debug\szakdolgozatmvpnullarol.csprojAssemblyReference.cache

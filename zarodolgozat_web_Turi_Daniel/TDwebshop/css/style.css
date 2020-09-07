@@ -1,0 +1,58 @@
+body{
+  background-image: url("../pics/backgrounds/erik-mclean-gK2QZFNOJ_k-unsplash.jpg");
+  background-size: 100%;
+}
+.footer_links{
+  background: white;
+  padding: 2%;
+}
+.nav-link, .navlink {
+  color: white;
+}
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+.content{
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+img {
+  width: 100%;
+}
+#filterform{
+  margin-bottom: 2%;
+}
+h2{
+  text-align: center;
+}
+.footer{
+  margin-bottom: 0;
+}
+.navbar, .footer{
+  opacity: 90%;
+}
+#form, #formlogin {
+  padding: 2%;
+  width: 30%;
+  margin: 0 auto;
+}
+#cartForm{
+  padding: 2%;
+  width: 100%;
+}
+#filterform{
+  padding: 2%;
+}
+#webshop_copyright{
+  color: white;
+}
+.page-link{
+  color: black;
+}
+.clicked_prod{
+  width: 40%;
+  margin: 0 auto;
+}

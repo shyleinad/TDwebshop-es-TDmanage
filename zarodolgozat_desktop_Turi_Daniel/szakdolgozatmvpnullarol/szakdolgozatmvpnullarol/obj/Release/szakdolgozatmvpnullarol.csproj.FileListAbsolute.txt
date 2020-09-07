@@ -1,0 +1,14 @@
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\obj\Release\szakdolgozatmvpnullarol.csprojAssemblyReference.cache
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\obj\Release\szakdolgozatmvpnullarol.Properties.Resources.resources
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\obj\Release\szakdolgozatmvpnullarol.View.Container.resources
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\obj\Release\szakdolgozatmvpnullarol.csproj.GenerateResource.cache
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\bin\Release\szakdolgozatmvpnullarol.exe.config
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\bin\Release\szakdolgozatmvpnullarol.exe
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\bin\Release\szakdolgozatmvpnullarol.pdb
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\bin\Release\Google.Protobuf.dll
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\bin\Release\Renci.SshNet.dll
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\bin\Release\MySql.Data.xml
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\obj\Release\szakdolgozatmvpnullarol.csproj.CopyComplete
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\obj\Release\szakdolgozatmvpnullarol.exe
+C:\Users\Dániel\source\repos\szakdolgozatmvpnullarol\szakdolgozatmvpnullarol\obj\Release\szakdolgozatmvpnullarol.pdb

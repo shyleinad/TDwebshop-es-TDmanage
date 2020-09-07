@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szakdolgozatmvpnullarol", "szakdolgozatmvpnullarol\szakdolgozatmvpnullarol.csproj", "{593ECA5F-7837-4536-A6EA-A8D337DC12C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTDmanage", "UnitTestTDmanage\UnitTestTDmanage.csproj", "{607D131D-AEC9-45E5-A511-F26FB0592175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593ECA5F-7837-4536-A6EA-A8D337DC12C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593ECA5F-7837-4536-A6EA-A8D337DC12C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593ECA5F-7837-4536-A6EA-A8D337DC12C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593ECA5F-7837-4536-A6EA-A8D337DC12C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607D131D-AEC9-45E5-A511-F26FB0592175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607D131D-AEC9-45E5-A511-F26FB0592175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607D131D-AEC9-45E5-A511-F26FB0592175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607D131D-AEC9-45E5-A511-F26FB0592175}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8DB0663-FC8C-4D03-A463-149FB0C023AD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+<?php
+  session_start();
+  include("top.php");
+?>
+<div class="footer_links">
+  <h2>Fizetési feltételek</h2>
+  <h3>Banki átutalás:</h3>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet est placerat in egestas erat. Eget duis at tellus at. Adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum. Non consectetur a erat nam at lectus. Id interdum velit laoreet id. Blandit turpis cursus in hac habitasse. Morbi tincidunt augue interdum velit euismod in. Tortor posuere ac ut consequat semper viverra. In metus vulputate eu scelerisque felis imperdiet proin fermentum.
+  <h3>PayPal:</h3>
+  Ultrices sagittis orci a scelerisque purus. Convallis a cras semper auctor neque. Enim lobortis scelerisque fermentum dui faucibus in ornare quam. Ut eu sem integer vitae justo eget. Amet tellus cras adipiscing enim eu turpis egestas pretium. Gravida cum sociis natoque penatibus et magnis. At varius vel pharetra vel turpis nunc eget lorem. Tincidunt id aliquet risus feugiat in ante metus dictum at. Lorem ipsum dolor sit amet consectetur. Condimentum mattis pellentesque id nibh tortor id aliquet lectus. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Ut placerat orci nulla pellentesque dignissim. Pretium vulputate sapien nec sagittis aliquam malesuada bibendum arcu vitae. Quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus.
+  <h3>Utánvét az áru átvételekor:</h3>
+  Amet purus gravida quis blandit turpis cursus in. Imperdiet massa tincidunt nunc pulvinar. Quam id leo in vitae turpis. At in tellus integer feugiat scelerisque varius morbi. Quis eleifend quam adipiscing vitae proin sagittis nisl. Sit amet cursus sit amet. Nunc consequat interdum varius sit amet mattis vulputate enim nulla. Et netus et malesuada fames ac turpis egestas sed tempus. Neque egestas congue quisque egestas diam in. Sapien et ligula ullamcorper malesuada proin. Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Tempus quam pellentesque nec nam aliquam sem et tortor consequat. Cursus vitae congue mauris rhoncus aenean vel elit scelerisque. Suspendisse sed nisi lacus sed viverra tellus in hac. Ut aliquam purus sit amet luctus venenatis lectus magna. Congue nisi vitae suscipit tellus mauris a diam maecenas sed. Vitae et leo duis ut diam. Sagittis purus sit amet volutpat.
+  <h3>Fizetés az átvételi ponton:</h3>
+  Tempor id eu nisl nunc mi. Egestas purus viverra accumsan in nisl. Ut faucibus pulvinar elementum integer enim neque. Phasellus faucibus scelerisque eleifend donec pretium. Elementum sagittis vitae et leo duis ut diam quam nulla. Ut sem nulla pharetra diam sit amet nisl. Adipiscing at in tellus integer. Eget magna fermentum iaculis eu non. Ipsum dolor sit amet consectetur adipiscing elit duis. Bibendum enim facilisis gravida neque convallis. Cras sed felis eget velit aliquet sagittis id consectetur. Integer eget aliquet nibh praesent tristique. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Suspendisse interdum consectetur libero id faucibus nisl. Velit egestas dui id ornare. Enim tortor at auctor urna nunc. Ante in nibh mauris cursus mattis molestie a.
+  <h3>Bakkártyás fizetés:</h3>
+  Tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum. Euismod nisi porta lorem mollis aliquam ut. Quam vulputate dignissim suspendisse in. Neque gravida in fermentum et sollicitudin ac orci. Mi eget mauris pharetra et ultrices neque ornare aenean. Mattis pellentesque id nibh tortor id aliquet lectus proin nibh. Massa placerat duis ultricies lacus sed. Sagittis nisl rhoncus mattis rhoncus urna neque. Egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Non odio euismod lacinia at quis risus sed vulputate. Urna molestie at elementum eu facilisis sed odio morbi. Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Mi bibendum neque egestas congue quisque egestas diam in arcu.
+</div>
+<?php
+  echo file_get_contents("html\bottom.html");
+?>

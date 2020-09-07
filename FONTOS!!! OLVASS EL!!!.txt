@@ -1,0 +1,17 @@
+﻿A desktop alkalmazás új hír és új termék feltöltésénél képeket másol. Ha ezeknél a funkcióknál hibát dob az alkalmazás, akkor valószínűleg rossz mappában van a webshop vagy a XAMPP nem megfelelően van beállítva! (Vagy az adott kép az adott fájlnévvel már létezik a célhelyen, ez esetben az a helyes, ha a hiba jelentkezik!)
+
+FONTOS: A WEBSHOPOT A KÖVETKEZŐ ÚTVONALRA KELL MÁSOLNI: C:/xampp/htdocs
+FONTOS: A XAMPP alkalmazásban az apache-nál a config gombra kattintva az "Apache (httpd.conf)" fájlt kell módosítani. Ebben a fájlban DocumentRoot-nál az útvonalat a következőre kell átírni: "C:/xampp/htdocs". 
+FONTOS: Adminisztrátori belépésnél a felhasználónév és a jelszó is "admin". Dolgozói belépésnél pedig a felhasználónév és a jelszó is "dolgozo". (Természetesen az adminisztrátori bejelentkezésnél definiálhatunk új felhasználókat.)
+
+
+
+AZ ADATBÁZISHOZ FELHASZNÁLÓK VANNAK MEGADVA!
+
+A desktophoz létrehozott felhasználó: 
+név: administrator_and_employee
+jelszó: IHapeTTLqTgNp6Py
+
+A webshophoz létrehozott felhasználó:
+név: visitor_and_regged_user
+jelszó: SAWAtFv3fiju1n5t

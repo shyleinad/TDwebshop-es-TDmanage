@@ -1,0 +1,4 @@
+*.sql linguist-detectable=false
+bootstrap.js linguist-vendored=true
+bootstrap*.js linguist-vendored=true
+jquery-3.4.1.min.js linguist-vendored=true
